@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "rex",
+        "especie": "cachorro",
+        "brinquedos": ["rato", "bola"]
+    },
+    {
+        "nome": "mimi",
+        "especie": "gato",
+        "brinquedos": ["bola", "laser"]
+    },
+    {
+        "nome": "fofo",
+        "especie": "gato",
+        "brinquedos": ["bola", "rato", "laser"]
+    },
+    {
+        "nome": "zero",
+        "especie": "gato",
+        "brinquedos": ["rato", "bola"]
+    },
+    {
+        "nome": "bola",
+        "especie": "cachorro",
+        "brinquedos": ["caixa", "novelo"]
+    },
+    {
+        "nome": "bebe",
+        "especie": "cachorro",
+        "brinquedos": ["laser", "rato", "bola"]
+    },
+    {
+        "nome": "loco",
+        "especie": "jabuti",
+        "brinquedos": ["skate", "rato"]
+    }
+]
